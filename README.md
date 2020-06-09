@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>dchol web</title>
 <body>
-    <img src="https://scontent-bom1-2.xx.fbcdn.net/v/t1.0-9/67877356_2420320351393849_8975657641984393216_n.jpg?_nc_cat=108&_nc_sid=09cbfe&_nc_oc=AQncoR3IUqG9tSPqP7VNE8wWFLKwcQQDc9hMgeRWxGNQnZESzifJI_DF0nW3SSJsMuo&_nc_ht=scontent-bom1-2.xx&oh=499000f436a154e914ddf9727ca57abb&oe=5F06992D" alt"Coffee house profile">
+    <img src="coffee cup.jpg" alt"Coffee house profile">
 <h1>coffee house</h1>
 <p><em>coffee house is website where poerty lovers explore and share 
     thier writtings with other writers and non writers who are compassionate with poerty.
