@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>dchol web</title>
 <body>
-    <img src="cup122.png" alt"Coffee house profile">
+    <img src="cup122.png">
 <h1>coffee house</h1>
 <p><em>coffee house is website where poerty lovers explore and share 
     thier writtings with other writers and non writers who are compassionate with poerty.
