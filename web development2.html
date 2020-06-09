@@ -6,7 +6,7 @@
 <body>
     <img src="coffee cup.jpg" alt"Coffee house profile">
 <h1>coffee house</h1>
-<p><em>coffe house is website where poerty lovers explore and share 
+<p><em>coffee house is website where poerty lovers explore and share 
     thier writtings with other writers and non writers who are compassionate with poerty.
 </em></p>
 <hr>
