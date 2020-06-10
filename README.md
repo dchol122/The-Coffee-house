@@ -26,7 +26,7 @@
     </ul>
     <h2>Articles</h2>
     <ol>
-        <li></li><a href="https://www.instagram.com/p/CBN132tKER5/?utm_source=ig_web_copy_link">The Conscious</a>
+        <li><a href="https://www.instagram.com/p/CBN132tKER5/?utm_source=ig_web_copy_link">The Conscious</a></li>
         <li>The silent boy</li>
         <li>The Wall</li>
 
