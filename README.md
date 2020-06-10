@@ -5,8 +5,8 @@
 <body>
     <img src="coffee cup.jpg">
 <h1>coffee house</h1>
-<p><em>coffee house is website where poerty lovers explore and share 
-    thier writtings with other writers and non writers who are compassionate with poerty.
+<p><em>coffee house is website where poetry lovers explore and share 
+    their writtings with other writers and non writers who are compassionate with poetry.
 </em></p>
 <hr>
 <h3>Contents</h3>
