@@ -20,13 +20,13 @@
         <li>Beyond Blood</li>
         <li>Let's Rise</li>
         <li>The new me</li>
-        <li>Little Wolve</li>
-         <li>Your Eyes</li>
+        <li><a href="https://www.instagram.com/p/BwM3WUDHHk0/?utm_source=ig_web_copy_link">Little Wolve</a></li>
+         
 
     </ul>
     <h2>Articles</h2>
     <ol>
-        <li>The Conscious</li>
+        <li></li><a href="https://www.instagram.com/p/CBN132tKER5/?utm_source=ig_web_copy_link">The Conscious</a>
         <li>The silent boy</li>
         <li>The Wall</li>
 
@@ -35,4 +35,4 @@
     </ol>
     <a href="web development3.html">Contact Us</a>
 </body>
-</html>
+
