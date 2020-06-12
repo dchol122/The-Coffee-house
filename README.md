@@ -21,7 +21,7 @@
         <li>Let's Rise</li>
         <li>The new me</li>
         <li><a href="https://www.instagram.com/p/BwM3WUDHHk0/?utm_source=ig_web_copy_link">Little Wolve</a></li>
-        <li><a href=" https://www.facebook.com/photo?fbid=2170490633043490&set=a.1339960686096493">Desert Rose</a></li>
+        <li>Desert Rose</li>
 
     </ul>
     <h2>Articles</h2>
